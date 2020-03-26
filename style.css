@@ -2,6 +2,10 @@
     padding: 0px;
     margin: 0px;
 }
+.pointer:hover {
+    background-color: greenyellow;
+    cursor: pointer;
+}
 .gray {
     background-color: lightgray;
     text-align: center;
